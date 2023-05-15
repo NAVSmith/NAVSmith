@@ -6,4 +6,4 @@ Beyond my analytical skills, I possess a unique blend of qualitative and quantit
 
 In addition to my professional endeavors, I also have a creative side. As an H.P. Lovecraft fan and a card collector, I find inspiration in the mysterious and surreal. I'm also a dedicated history buff, having had the incredible opportunity to work in a historical museum, where I immersed myself in the stories of the past. These hobbies not only bring me joy but also enhance my ability to think creatively and approach problem-solving from different perspectives.
 
-![Alt Text](*/03010.png)
+![Alt Text](.*/03010.png)
